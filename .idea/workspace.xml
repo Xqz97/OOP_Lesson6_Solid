@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="7a32f586-4b68-47c5-9025-8c74db9bb25c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/SolidDip/SolidDip.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SolidLsp1/SolidLsp1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SolidLsp2/SolidLsp2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SolidOcp1/SolidOcp1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SolidSip1/SolidSip1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SolidSrp2/SolidSrp2.iml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solid1Srp1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solid1Srp1/src/solid/srp/SquareDraw.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solid1Srp1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Solid1Srp1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solid1Srp1/src/solid/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solid1Srp1/src/solid/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solid1Srp1/src/solid/srp/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solid1Srp1/src/solid/srp/Square.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +22,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2IXyjlpR5Wiiy0oCtofHfRCnxiw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -25,9 +30,21 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Java_lesson/OOP_Lesson6_Solid/Solid1Srp1"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

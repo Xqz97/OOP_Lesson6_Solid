@@ -1,4 +1,4 @@
-public class User{
+public class User implements Report{
 	private String name;
 	
 	public User(String name){
@@ -7,11 +7,6 @@ public class User{
 	
 	public String getName(){
 		return name;
-	}
-	
-	public void save(){
-		Persister persister = new Persister(this);
-		persister.save();
 	}
 	
 	public void report(){
